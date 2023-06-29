@@ -1,10 +1,14 @@
 # Pokemon_Cards
 # Pokemon is one of the most famous anime of 21st century.
 
+### [Live Site](https://punith-kk.github.io/Pokemon_Cards/)
 
 ## This Web Project Provides Pokemon Cards using CSS Holographic Effects.
-## Project Pics are given below:
 
+# Video of our Website(Sorry for low quality because max size is 25mb in Github)
+https://github.com/Punith-KK/Pokemon_Cards/assets/118302022/0a6fe1b9-b2d9-4339-aca4-faa81e6d1f81
+
+## Project Pics are given below:
 
 ![1](https://github.com/Punith-KK/Pokemon_Cards/assets/118302022/aec85124-08af-48cc-a8d5-07f9f6398d80)
 
@@ -17,8 +21,6 @@
 ![6](https://github.com/Punith-KK/Pokemon_Cards/assets/118302022/9376e678-b2b7-4a1c-aea2-15d5dd7bf78c)
 
 
-# Video of our Website(Sorry for low quality because max size is 25mb in Github)
-https://github.com/Punith-KK/Pokemon_Cards/assets/118302022/0a6fe1b9-b2d9-4339-aca4-faa81e6d1f81
 
 
 # About Pokemon
